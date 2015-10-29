@@ -1,2 +1,2 @@
 # my_test_app
-a test application, delete whenever you want
+a test application, delete it whenever you want
